@@ -214,6 +214,7 @@ Related projects:
 13. Large Language Models are not Fair Evaluators. _Peiyi Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.17926)]
 14. Exploring AI Ethics of ChatGPT: A Diagnostic Analysis. _Terry Yue Zhuo et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2301.12867)]
 15. CHBias: Bias Evaluation and Mitigation of Chinese Conversational Language Models. _Jiaxu Zhao et al._ ACL 2023. [[paper](https://aclanthology.org/2023.acl-long.757.pdf)]
+16. Bias and Fairness in Large Language Models: A Survey . _Isabel O. Gallegos et al._September 01 2024.[[paper](https://direct.mit.edu/coli/article/50/3/1097/121961/Bias-and-Fairness-in-Large-Language-Models-A?utm_source=chatgpt.com)]
 
 #### Trustworthiness
 1. Human-Like Intuitive Behavior and Reasoning Biases Emerged in Language Models -- and Disappeared in GPT-4. _Thilo Hagendorff et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.07622)]
